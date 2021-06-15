@@ -1,6 +1,3 @@
-// var commonOptions = {};
-// commonOptions.apiKey = "682843b1-d3e0-460e-ab90-6556bc31470f";
-// commonOptions.appName = "postmedia-dev";
 var LRObject = new LoginRadiusV2(commonOptions);
 
 /*
